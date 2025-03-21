@@ -1,0 +1,156 @@
+{
+  "name": "Matei Dragos-Marian",
+  "label": "Mechatronics Engineer",
+  "image_path": "Media/ME.jpeg",
+  "contact": {
+    "email": "dragosmar08@gmail.com",
+    "phone": "",
+    "location": "Romania, Bucharest"
+  },
+  "summary": "Mechatronics and Robotics Engineer with expertise in AI development, robotic systems and advanced medical devices. Proficient in Python, PyTorch and Kuka robotics. Seeking a challenging role to apply technical and problem-solving skills in innovative projects.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "LinkedIn Page",
+      "url": "https://www.linkedin.com/in/dragos-marian-matei",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub (WIP)",
+      "url": "https://github.com/S1abu",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Audio Nova",
+      "position": "Electronist",
+      "url": "https://www.audionova.ro/",
+      "start_date": "12/07/2020",
+      "end_date": "Present",
+      "summary": "Working with advanced medical audio devices",
+      "highlights": [
+        "Diagnose the devices",
+        "MicroSoldering of the main chip",
+        "Assembleing the hearing aid"
+      ]
+    },
+    {
+      "company": "GenTech",
+      "position": "Technical Support",
+      "url": "https://www.gentechsolution.com/",
+      "start_date": "10/06/2022",
+      "end_date": "11/07/2024",
+      "summary": "Provided technical support for the filtering service",
+      "highlights": [
+        "Assisted the clients in installing and customizing the filter",
+        "Detecting and resolving the bugs that the customers may encounter",
+        "Fine-tuning the AI's hyperparameters"
+      ]
+    },
+    {
+      "company": "Ubisoft",
+      "position": "Game Tester",
+      "url": "https://www.ubisoft.com/en-us/company/about-us/",
+      "start_date": "01/10/2018",
+      "end_date": "01/03/2019",
+      "summary": "PVP testing in Ghost Recon: Wildlands project",
+      "highlights": [
+        "Identifing and logging bugs using Jira",
+        "Collaborated with cross-platform teams in replicating bugs"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "KUKA hands on education",
+      "summary": "Programming KUKA robot arms",
+      "url": "https://www.instagram.com/reel/Co4bNekv4Xp/?igsh=MTl6ZjZrenRjZTd5bQ==",
+      "highlights": [
+        "Path programming of the KUKA agilus arm.",
+        "Stack programming.",
+        "Masterizing and calibration for the arm."
+      ],
+      "images": [
+        {
+          "img_path": "https://images.squarespace-cdn.com/content/v1/54597c3be4b0a4696b6deb50/1420230674324-A1V0ZIUVQBVYSSRT3G9X/image-asset.png?format=2500w",
+          "caption": "KUKA agilus Range of motion."
+        },
+        {
+          "img_path": "Media/KUKA.jpeg",
+          "caption": "Selfie Programing the arm."
+        },
+        {
+          "img_path": "Media/KUKA3.png",
+          "caption": "Platfom for tracing the path."
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Solid Mechanics Institute of the Romanian Academy",
+      "position": "Practitioner",
+      "url": "https://imsar.ro/",
+      "start_date": "01/06/2022",
+      "end_date": "01/10/2022",
+      "summary": "Introduction in Convolutional Neural Networks",
+      "highlights": [
+        "Working with OpenCV and filters",
+        "Installing and using PyTorch with cuda",
+        "Training CNN's on existing data such as CIFAR-1000"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Smart Biotechnical Systems",
+      "location": "Romania, Bucharest",
+      "url": "https://isb.pub.ro/master_isb/",
+      "degrees": [
+        "Master of Engineering in Mechatronics and Robotics"
+      ],
+      "honors": ["Scholarship Recipient"],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "01/07/2026"
+    },
+    {
+      "institution": "Faculty of Biotechnical Systems Engineering",
+      "location": "Romania, Bucharest",
+      "url": "https://isb.pub.ro/mecatronica/",
+      "degrees": ["Bachelor of Engineering in Mechatronics and Robotics"],
+      "honors": ["Scholarship Recipient" , "Outstanding Student Award"],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "01/07/2024"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, C++, Java, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "PyTorch, TensorFlow, HTML, CSS",
+      "proficiency": 80,
+      "proficiency_label": "Confortable"
+    },
+    {
+      "name": "FluidSim, TIA Portal",
+      "proficiency": 80,
+      "proficiency_label": "Confortable"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    }
+  ]
+}
